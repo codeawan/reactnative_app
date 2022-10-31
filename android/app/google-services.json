@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29576028149",
+    "firebase_url": "https://hindisoch1.firebaseio.com",
+    "project_id": "hindisoch1",
+    "storage_bucket": "hindisoch1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29576028149:android:1f9b15b716957b913c4abc",
+        "android_client_info": {
+          "package_name": "com.codercubo.hindisoch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29576028149-t4mrmup3ue67d6otd1td5dsov0p95k55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPJl2KJ9GEZMgmY3YRA-DLCGEqQet7cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29576028149-t4mrmup3ue67d6otd1td5dsov0p95k55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
